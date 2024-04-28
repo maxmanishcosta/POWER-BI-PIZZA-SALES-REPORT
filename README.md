@@ -1,4 +1,9 @@
 # POWER_BI_PIZZA_SALES_REPORT
+
+![PIZZA SALES HOME](https://github.com/maxmanishcosta/POWER-BI-PIZZA-SALES-REPORT/assets/64778172/bfeabbda-1494-4e4c-8364-a6554f7f69cf)
+
+![PIZZA SALES BEST WORST SELLER](https://github.com/maxmanishcosta/POWER-BI-PIZZA-SALES-REPORT/assets/64778172/d8cf309a-ae92-4005-bfe7-869d850c2243)
+
 🍕 Exciting Developments in Pizza Analytics! 📊🎉
 
 Greetings everyone! Delighted to share a significant milestone – the successful creation of our Pizza Sales Analysis Dashboard! 🚀 Here is a detailed breakdown of our journey:
